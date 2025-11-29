@@ -4,3 +4,4 @@ matplotlib
 python-dotenv
 snowflake-connector-python
 openai
+scikit-learn
