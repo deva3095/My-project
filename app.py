@@ -162,8 +162,6 @@ if user_question:
 st.markdown(
     """
     **Notes**
-    - Do not hardcode keys in source. Use environment variables or a .env file (and never commit it).
-    - If running locally, ensure you set OPENAI_API_KEY and Snowflake credentials in env/.env.
-    - For bulk writes back to Snowflake, use staged CSV + COPY INTO for better performance.
+    - It was fun building it.
     """
 )
